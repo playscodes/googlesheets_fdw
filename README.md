@@ -8,6 +8,8 @@ Only reading available (in current version)
 - PostgreSQL (tested on v 10.3)
 - [Python](https://www.python.org/) (tested on v 3.6)
 - [Multicorn ](http://multicorn.org/)
+- [Google API Client](https://developers.google.com/api-client-library/python/start/installation)
+
 
 ## Install:
 - Download and install multicorn
